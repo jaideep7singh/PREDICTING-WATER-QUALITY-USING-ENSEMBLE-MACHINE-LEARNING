@@ -1,2 +1,27 @@
 # PREDICTING-WATER-QUALITY-USING-ENSEMBLE-MACHINE-LEARNING
-The main goal of this project to create a fast, accurate, and reliable system that can predict the Water Quality Index (WQI) using advanced machine learning techniques. Instead of depending only on traditional testing methods that take more time and resources,
+
+## Project Overview
+This project predicts water quality (Potable / Not Potable) using machine learning models like Random Forest, SVM, and XGBoost.
+
+## Features
+- Data preprocessing (handling missing values, normalization)
+- Multiple ML models
+- Ensemble learning (Voting Classifier)
+- 5-Fold Cross Validation
+- Evaluation using Accuracy, F1 Score, Confusion Matrix
+
+## Technologies Used
+- Python
+- Scikit-learn
+- XGBoost
+- Pandas, NumPy, Matplotlib
+
+## How to Run
+1. Open the notebook
+2. Run all cells
+3. View predictions and results
+
+## Output
+- Accuracy: ~80%
+- Confusion Matrix
+- Performance graphs
